@@ -29,17 +29,17 @@ cd ios && pod install
 To start Metro, run:
 
 ```
-yarn start
+npm start
 ```
 
 To start app for iOS, run:
 
 ```
-yarn ios
+npm ios
 ```
 
 To start app for Android, run:
 
 ```
-yarn android
+npm android
 ```
